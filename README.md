@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
 <h3 align="center">A passionate AI/ ML enthusiast from Mumbai, India</h3>
-
+<img align ="right" alt = "coding" width = "400"  src ="https://i.pinimg.com/564x/73/fa/a5/73faa50ed668f027c79ac8930ba48749.jpg">
 - 🔭 I’m currently Studying Mechanical engineering from **Indian Institute of Technology Bombay**
 
 - 🌱 I’m currently learning about **LSTM, Transformers, Financial markets**
