@@ -1,13 +1,13 @@
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif?h=40%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/b3/fa/b8/b3fab87d14de81fce8862275da6689a6.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif">
   <img alt="Shows a cool and chill workspace" src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif">
 </picture>
 
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
 <h3 align="center">A passionate AI/ ML enthusiast from Mumbai, India</h3>
-<img align ="right" alt = "coding" width = "400"  src ="https://i.pinimg.com/564x/73/fa/a5/73faa50ed668f027c79ac8930ba48749.jpg">
+<img align ="right" alt = "coding" width = "300"  src ="https://i.pinimg.com/564x/73/fa/a5/73faa50ed668f027c79ac8930ba48749.jpg">
 - 🔭 I’m currently Studying Mechanical engineering from **Indian Institute of Technology Bombay**
 
 - 🌱 I’m currently learning about **LSTM, Transformers, Financial markets**
