@@ -1,6 +1,6 @@
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif?h=60%">
   <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif">
   <img alt="Shows a cool and chill workspace" src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif">
 </picture>
