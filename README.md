@@ -1,8 +1,8 @@
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/48/a8/2f/48a82f83c41f2b7b180e04e6e40521e7.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/564x/48/a8/2f/48a82f83c41f2b7b180e04e6e40521e7.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.pinimg.com/564x/48/a8/2f/48a82f83c41f2b7b180e04e6e40521e7.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif">
+  <img alt="Shows a cool and chill workspace" src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif">
 </picture>
 
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
